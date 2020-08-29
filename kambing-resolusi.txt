@@ -4,3 +4,5 @@ target wa mogadkabulkn aminn
 -bisa javascript
 -bisa laravel
 -nikah
+-buka toko
+-naik haji
